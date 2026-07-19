@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/efrenmedinaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
+  <a href="https://efrenmedina.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
 </div>
 
 ###
@@ -25,9 +28,8 @@
 <h3 align="left">About Me</h3>
 
 <p align="left">
-  I'm a Computer Science and Statistics major at the University of Toronto and a software engineer based in Toronto. I like architecting software with real impact &mdash; designing systems that solve problems people actually feel.<br><br>
-  - 🔭 I'm currently working on <!--PROJECT — fill or delete this line--><br>
-  - 📚 I'm currently learning <!--WHAT — fill or delete this line--><br>
+  I'm a Computer Science and Statistics major at the University of Toronto and a software engineer based in Toronto. I like architecting software with real impact, designing systems that solve problems people actually feel.<br><br>
+  
   - 📫 Reach me on <a href="https://www.linkedin.com/in/efrenmedinaa">LinkedIn</a>
 </p>
 
@@ -61,13 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
-</div>
-
-###
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EfrenMedina&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EfrenMedina&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </div>
 
 ###
